@@ -1,0 +1,11 @@
+{
+  "name": "sales-agent-en-marketplace",
+  "owner": "RuikeYuan",
+  "plugins": [
+    {
+      "name": "sales-agent-en",
+      "source": ".",
+      "description": "Beauty salon gold-standard sales subagent (English) with transparent-quotation, discovery, objection, confirmation, and review skills."
+    }
+  ]
+}
